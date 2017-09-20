@@ -2,5 +2,5 @@
     "name": "marduuk/litecoin-php-library",
     "type": "library",
     "require": {},
-    "version": "dev"
+    "version": "1.0.*"
 }
