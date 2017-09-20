@@ -1,6 +1,7 @@
 {
     "name": "vendor/litecoin-php-library",
     "type": "library",
+    "license" : "MIT",
     "require": {},
     "version": "1.0.*"
 }
